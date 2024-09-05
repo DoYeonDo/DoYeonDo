@@ -11,10 +11,10 @@
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehduszkdzkd)](https://solved.ac/ehduszkdzkd/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoYeon&show_icons=true&theme=ambient_gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoYeonDo&show_icons=true&theme=ambient_gradient)
 
 ## Skills 🐰
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoYeonDo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoYeonDo&layout=compact&theme=dracula)
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEXe5uzAztqxwtHc4OT09PT19fXw8PCqu8rn5+f8/Pzs0Lf6+vrnrXrleiugscLk5OT39/fs7OzkcR7lx6zh4eHhr4LhZRLhpW+Vp7fd3d3gYA6Knq3W1tbbbhzXoW1cepV6jZ6EmKdIZoJWc4vQ0NB8kJ6otb3Ly8twhZV1jqW5vcK9yM9ofY52NCXaAAAAr0lEQVR4AU3KhUIDMQwA0BwrWWftZWQSLrDq/P+/jxPsVaIAzcs/TV/PzOsI+2dmDcztYoTLVf/bed9YDXC9MX3oG863PVpv6c20rXfg2BiDuz0ftmgMOzgKItKe9nsiRDn2DSKyG3m3Vpj6RqfWq+rHp8opiHYQ1XNKub8dp1Ai1MIi554rJYVLhXAR0Zz6DU1BLwGCsmqZMGuAq7K7nSbe6hXqnf/4e4VHfP4TH1/dVRTdLcfq+gAAAABJRU5ErkJggg==&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
