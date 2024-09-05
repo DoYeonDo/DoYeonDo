@@ -27,7 +27,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name 'DoYeonDo'
+          git config --global user.name '박도연'
           git config --global user.email 'ehduszkdzkd@naver.com'
           git add README.md
           git commit -m 'Update README with latest visitor count'
