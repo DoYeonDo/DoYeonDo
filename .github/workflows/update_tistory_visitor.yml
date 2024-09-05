@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 매일 자정에 실행
-  workflow_dispatch:  # 수동으로 트리거할 수 있음
+    - cron: "*/5 * * * *" # 매일 자정에 실행
+  workflow_dispatch: # 수동으로 트리거할 수 있음
 
 jobs:
   update-readme:
@@ -15,7 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: '3.x'  # 원하는 파이썬 버전
+          python-version: "3.x" # 원하는 파이썬 버전
 
       - name: Install dependencies
         run: |
