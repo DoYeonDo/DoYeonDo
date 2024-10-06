@@ -2,7 +2,7 @@
 <p align="center"> 🍋DoYeon tistory🍋<br/></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-833-blue" alt="Visitor Badge">
+  <img src="https://img.shields.io/badge/Visitors-834-blue" alt="Visitor Badge">
 </p>
 <p align="center">
   <a href="https://ehduszkdzkd.tistory.com/">
