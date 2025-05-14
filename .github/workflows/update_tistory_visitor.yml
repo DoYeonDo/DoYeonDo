@@ -30,6 +30,8 @@ jobs:
           git config --global user.name '박도연'
           git config --global user.email 'ehduszkdzkd@naver.com'
           git add README.md
+          # 변경 사항 없으면 커밋 생략하고 종료
+          git diff --quiet && echo "No changes to commit" && exit 0
           git commit -m 'Update README with latest visitor count'
           git push origin main
         env:
